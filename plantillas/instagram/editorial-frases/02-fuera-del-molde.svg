@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<title>JotaeleosLAB — Fuera del molde</title>
+<rect width="1080" height="1350" fill="#F1F1E9"/>
+<rect x="0" y="0" width="1080" height="95" fill="#121310"/>
+<text x="60" y="61" font-family="Nimbus Sans,Arial,sans-serif" font-size="24" fill="#F1F1E9" letter-spacing="3">ESTUDIO CREATIVO / SANTIAGO</text>
+<text x="58" y="370" font-family="Unbounded,Arial,sans-serif" font-weight="900" font-size="150" fill="#121310">FUERA</text>
+<text x="58" y="545" font-family="Unbounded,Arial,sans-serif" font-weight="900" font-size="150" fill="#121310">DEL</text>
+<rect x="45" y="595" width="1000" height="205" fill="#C4F264"/>
+<text x="60" y="755" font-family="Unbounded,Arial,sans-serif" font-weight="900" font-size="145" fill="#121310">MOLDE.</text>
+<text x="65" y="920" font-family="Nimbus Sans,Arial,sans-serif" font-size="38" fill="#333333">Una mirada. Muchas formas.</text>
+<path d="M65 1080 H1015" stroke="#333333" stroke-width="2"/>
+<text x="65" y="1150" font-family="Nimbus Sans,Arial,sans-serif" font-size="27" fill="#333333">Diseño · Imagen · Producción</text>
+<text x="65" y="1275" font-family="Nimbus Sans,Arial,sans-serif" font-size="22" fill="#333333">JotaeleosLAB / 02</text>
+<!-- Agregar logotipo oficial desde marca/logos-originales, no dibujar un sustituto -->
+</svg>
