@@ -1,0 +1,10 @@
+# Override opcional para el checkout aislado de Doory.
+# Copiar este archivo al directorio raíz de Doory y ejecutar:
+# docker compose -f docker-compose.yml -f docker-compose.jotaeleoslab.yml up -d --build
+services:
+  api:
+    volumes:
+      - ./config/jotaeleoslab-size-presets.json:/config/jotaeleoslab-size-presets.json:ro
+    environment:
+      DOORY_SIZE_PRESETS_FILE: /config/jotaeleoslab-size-presets.json
+      DOORY_SIZE_PRESETS_MODE: extend
