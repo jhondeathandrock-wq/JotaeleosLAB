@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "slug": "jotaeleoslab",
+      "label": "JotaeleosLAB",
+      "icon": "palette",
+      "order": 1,
+      "children": [
+        {
+          "slug": "instagram-jotaeleoslab",
+          "label": "Instagram",
+          "presets": [
+            {
+              "slug": "jotaeleoslab-feed-portrait",
+              "label": "Instagram feed 4:5",
+              "width": 1080,
+              "height": 1350,
+              "unit": "px",
+              "tags": [
+                "instagram",
+                "feed",
+                "4:5"
+              ],
+              "is_quick": true,
+              "order": 1
+            },
+            {
+              "slug": "jotaeleoslab-square",
+              "label": "Instagram cuadrado",
+              "width": 1080,
+              "height": 1080,
+              "unit": "px",
+              "tags": [
+                "instagram",
+                "1:1"
+              ],
+              "order": 2
+            },
+            {
+              "slug": "jotaeleoslab-story",
+              "label": "Instagram story/reel",
+              "width": 1080,
+              "height": 1920,
+              "unit": "px",
+              "tags": [
+                "instagram",
+                "story",
+                "reel",
+                "9:16"
+              ],
+              "is_quick": true,
+              "order": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
