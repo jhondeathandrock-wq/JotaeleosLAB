@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<title>JotaeleosLAB — Las buenas ideas son inquietas</title>
+<rect width="1080" height="1350" fill="#121310"/>
+<rect x="60" y="65" width="960" height="2" fill="#C4F264"/>
+<text x="65" y="115" font-family="Nimbus Sans,Arial,sans-serif" font-size="22" fill="#F1F1E9" letter-spacing="3">JOTAELEOSLAB / EDITORIAL 01</text>
+<text x="65" y="310" font-family="Unbounded,Arial,sans-serif" font-weight="900" font-size="91" fill="#F1F1E9"><tspan x="65" dy="0">LAS BUENAS</tspan><tspan x="65" dy="110">IDEAS SON</tspan><tspan x="65" dy="110" fill="#C4F264">INQUIETAS.</tspan></text>
+<path d="M70 580 H800" stroke="#C4F264" stroke-width="14"/>
+<rect x="65" y="780" width="950" height="330" rx="8" fill="#333333"/>
+<text x="105" y="855" font-family="Nimbus Sans,Arial,sans-serif" font-size="31" fill="#F1F1E9">Diseño que no se queda quieto.</text>
+<text x="105" y="930" font-family="Nimbus Sans,Arial,sans-serif" font-size="25" fill="#F1F1E9">Identidad · Fotografía · Video · Impresión · 3D</text>
+<path d="M900 1025 l50 -50 m-50 0 h50 v50" fill="none" stroke="#C4F264" stroke-width="12"/>
+<rect x="65" y="1200" width="950" height="80" fill="#C4F264"/>
+<text x="95" y="1253" font-family="Unbounded,Arial,sans-serif" font-weight="900" font-size="33" fill="#121310">FUERA DEL MOLDE.</text>
+<!-- LOGO OFICIAL PENDIENTE: insertar arte original V6, NO recrearlo con texto ni geometría -->
+</svg>
