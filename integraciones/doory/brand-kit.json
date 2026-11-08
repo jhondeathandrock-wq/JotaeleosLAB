@@ -1,0 +1,45 @@
+{
+  "name": "JotaeleosLAB",
+  "source": "Manual de Marca v2.0, 2026-10-28",
+  "palette": {
+    "digitalBackground": "#121310",
+    "digitalForeground": "#F1F1E9",
+    "lime": "#C4F264",
+    "graphite": "#333333",
+    "cream": "#FFFDEC",
+    "white": "#FFFFFF"
+  },
+  "typography": {
+    "logo": "Original artwork only (Monument Extended UltraBold)",
+    "headings": "Unbounded Black 900",
+    "body": "Nimbus Sans Regular",
+    "bodyStrong": "Nimbus Sans Bold"
+  },
+  "assets": {
+    "logo": "PENDING_ORIGINAL_ASSET",
+    "symbol": "PENDING_ORIGINAL_ASSET",
+    "rule": "Never recreate or replace angular symbol with dot"
+  },
+  "presets": [
+    {
+      "name": "Instagram feed 4:5",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "name": "Instagram square",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "name": "Instagram story",
+      "width": 1080,
+      "height": 1920
+    }
+  ],
+  "attribution": {
+    "upstream": "Doory by Siam, creator and maintainer of Doory",
+    "url": "https://github.com/shaongitbd/doory",
+    "requiredInRunningApp": true
+  }
+}
